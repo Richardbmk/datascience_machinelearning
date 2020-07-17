@@ -15,5 +15,6 @@ Tools
 - [Covid-19 Maps with Plotly](https://github.com/Richardbmk/datascience_machinelearning/blob/master/Covid-19%20Map%20Plots%20with%20Plotly.ipynb)
 - [Mobile App vs Website App ML Problem](https://github.com/Richardbmk/datascience_machinelearning/blob/master/Mobile-or-Website-Problem.ipynb)- [Clicks on Web advertisement](https://github.com/Richardbmk/datascience_machinelearning/blob/master/Cliks-on-Advertisement-Problem.ipynb)
 - [Exxon Mobile Stock vs Barrel Oil Problem](https://github.com/Richardbmk/datascience_machinelearning/blob/master/ExxonMobile-vs-BarrelOil-Problem.ipynb)
+- [K Nearest Neighbors initiation Exercise](https://github.com/Richardbmk/datascience_machinelearning/blob/master/KNN-Simple-Exercise.ipynb)
 
 **Note.** This projects or exercise are just for learning purpose.
