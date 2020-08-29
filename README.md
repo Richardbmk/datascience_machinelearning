@@ -17,5 +17,7 @@ Tools
 - [Clicks on Web advertisement](https://github.com/Richardbmk/datascience_machinelearning/blob/master/Cliks-on-Advertisement-Problem.ipynb)
 - [Exxon Mobile Stock vs Barrel Oil Problem](https://github.com/Richardbmk/datascience_machinelearning/blob/master/ExxonMobile-vs-BarrelOil-Problem.ipynb)
 - [K Nearest Neighbors initiation Exercise](https://github.com/Richardbmk/datascience_machinelearning/blob/master/KNN-Simple-Exercise.ipynb)
+- [Kaggle Bulldozers. Project Milestone 1](https://github.com/Richardbmk/datascience_machinelearning/blob/master/Sale_price_bulldozers.ipynb)
+- [Heart disease Problem. Project Milestone 2](https://github.com/Richardbmk/datascience_machinelearning/blob/master/Heart_disease_prediction.ipynb)
 
 **Note.** This projects or exercise are just for learning purpose.
